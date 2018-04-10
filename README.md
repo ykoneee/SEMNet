@@ -14,7 +14,7 @@
 #### 快速开始：
     在cifar-10上进行训练，使用pytorch官方cifar10数据集
     python pytorch_baseline.py
-    ![](1.png 'result')
+![](1.png 'result')
     
 #### 然后呢？
     自己看代码吧，没有教学。
